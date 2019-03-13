@@ -26,3 +26,11 @@ body {
   border: solid;
   border-color: grey beige white grey;
 }
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: inherit;
+}
